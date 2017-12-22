@@ -47,7 +47,7 @@ To download a single image
 dotnet run --url https://api.adorable.io/avatars/285/test.png
 ```
 
-To download a single image
+To download a batch of images
 ```
 dotnet run --imagelist ../pathToListOfImages.txt
 ```
