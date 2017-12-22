@@ -35,6 +35,13 @@ dotnet build
 dotnet run --help
 ```
 
+or via the generated dll
+
+```
+dotnet bin/Debug/netcoreapp2.0/picdown.dll --help
+```
+
+
 To download a single image
 ```
 dotnet run --url https://api.adorable.io/avatars/285/test.png
