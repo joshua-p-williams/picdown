@@ -54,7 +54,7 @@ To download a batch of images
 dotnet run --imagelist ../pathToListOfImages.txt
 ```
 
-To save the list to a specific directory
+To save to a specific directory
 ```
 dotnet run --url https://api.adorable.io/avatars/285/test.png --downloadpath ../downloads
 ```
