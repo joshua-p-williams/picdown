@@ -23,6 +23,8 @@ Clone the repository
 git clone https://github.com/jwilliamsnephos/picdown.git
 ```
 
+Download dependencies and compile
+
 ```
 cd picdown
 dotnet restore
