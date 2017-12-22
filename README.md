@@ -13,7 +13,7 @@ Options:
  ```
 
 ## Requirements
-Install the .NET SDK ([http://go.microsoft.com/fwlink/?LinkID=798306&clcid=0x409](Getting Started "")).
+Install the .NET SDK (http://go.microsoft.com/fwlink/?LinkID=798306&clcid=0x409).
 
 ## Building
 
